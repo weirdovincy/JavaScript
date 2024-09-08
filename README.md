@@ -1,2 +1,1 @@
 # JavaScript
-A C3
